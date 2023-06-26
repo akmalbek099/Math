@@ -1,0 +1,159 @@
+
+.futer {
+    font-size: 35px;
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(80, 80, 80);
+    color: white;
+    text-shadow: 3px 3px 4px black;
+}
+.futer:hover {
+    background-color: yellow;
+    color: blue;
+    text-shadow:3px 3px 4px white ;
+}
+
+.owl-nav .owl-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 30px;
+    border: none;
+    background-color: transparent;
+    color: #fff!important;
+    margin-left: 0 !important;
+    transition: 0.7s;
+}
+.owl-nav .owl-next {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    width: 30px;
+    border: none;
+    background-color: transparent;
+    color: #fff!important;
+    margin-right: 0 !important;
+    transition: 0.7s;
+}
+.owl-prev:hover {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    transition: 0.7s;
+}
+.owl-next:hover {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+    transition: 0.7s;
+}
+.owl-nav .disabled:hover {
+    cursor:no-drop;
+}
+.banner-content {
+    position: absolute;
+    z-index: 5 !important;
+    top: 20%;
+    left: 10%;
+    font-size: 25px;
+    color: black;
+    width: 35%;
+    text-transform: uppercase;
+    margin: 600px;
+}
+.btn-book {
+    background-color: darkgoldenrod;
+    color: #fff;
+    font-size: 28px;
+    padding: 20px 70px;
+}
+.btn-book:hover {
+    color: rgb(102, 197, 6);
+    background-color: transparent;
+    border-color: rgb(102, 197, 6);
+}
+.carousel {
+    z-index: 1;
+}
+.img-next {
+    height: 900px;
+}
+.img-pad {
+    height: 800px;
+}
+.text {
+    font-size: 38px;
+    text-align: center;
+    padding: 20px;
+    color:black;
+    text-shadow: 4px 4px 5px rgb(151, 150, 150);
+}
+.text:hover {
+    color: gold;
+    text-shadow: 4px 4px 5px black;
+}
+.imge-perve {
+    width: 300px;
+    height: 200px;
+}
+.werd {
+    font-size: 28px;
+    text-shadow: 4px 4px 5px;
+}
+.werd:hover {
+    color: yellow;
+    text-shadow: 4px 4px 5px black;
+}
+.pert {
+    margin:5px;
+}
+.al-berg {
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+}
+.vedeo-pom {
+    margin: 20px;
+    width: 100%;
+}
+.container-blec {
+    width: 240px;
+    height: 40px;
+    background: #555;
+    transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+    transition-delay: 1s;
+}
+.container-blec:hover {
+    width: 500px;
+    height: 400px;
+}
+.text-88 {
+    font-size: 26px;
+    color: white;
+}
+.container-bleced {
+    width: 240px;
+    height: 40px;
+    background: #555;
+    transition-property: width;
+    transition-duration: 1s;
+    transition-timing-function: linear;
+    transition-delay: 1s;
+}
+.container-bleced:hover {
+    width: 500px;
+    height: 150px;
+}
+.tevt {
+    font-size: 14px;
+}
+.twxt-070 {
+    font-size: 20px;
+    text-align: center;
+    border: 1px dotted white;
+    color: white;
+    background-color: black;
+}
+.vede {
+    border: 3px dotted black;
+}
